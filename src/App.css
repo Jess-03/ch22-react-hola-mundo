@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  color: rgb(211, 127, 31);
+}
+
+.Mascota {
+  text-align: center;
+  color: rgb(158, 119, 12);
 }
 
 .App-logo {
