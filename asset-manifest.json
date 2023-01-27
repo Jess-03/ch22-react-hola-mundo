@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ch22-react-hola-mundo/static/css/main.1dfba4e2.css",
+    "main.js": "/ch22-react-hola-mundo/static/js/main.d322c425.js",
+    "index.html": "/ch22-react-hola-mundo/index.html",
+    "main.1dfba4e2.css.map": "/ch22-react-hola-mundo/static/css/main.1dfba4e2.css.map",
+    "main.d322c425.js.map": "/ch22-react-hola-mundo/static/js/main.d322c425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfba4e2.css",
+    "static/js/main.d322c425.js"
+  ]
+}
